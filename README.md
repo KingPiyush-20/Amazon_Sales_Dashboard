@@ -1,7 +1,12 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=850&lines=🛒+Amazon+Sales+Analysis;📊+Interactive+Excel+Dashboard;📈+Turning+Sales+Data+Into+Insights" alt="Animated Project Title" />
-</h1>
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=28&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=Amazon+Sales+Analysis;Interactive+Excel+Dashboard;Business+Intelligence+%26+Data+Analytics" alt="Amazon Sales Analysis Animated Title" />
+</a>
+
+</div>
+
 
 # 🛒 Amazon Sales Analysis & Interactive Dashboard | Excel
 
