@@ -1,11 +1,10 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=800&size=28&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=Amazon+Sales+Analysis;Interactive+Excel+Dashboard;Business+Intelligence+%26+Data+Analytics" alt="Amazon Sales Analysis Animated Title" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=19&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=1000&height=55&lines=Data+Driven+%7C+Insight+Focused+%7C+Interactive;Transforming+Raw+Sales+Data+Into+Insights;Explore+Revenue+%7C+Profit+%7C+Business+Trends" alt="Amazon Dashboard Tagline" />
 
 </div>
+
 
 
 # 🛒 Amazon Sales Analysis & Interactive Dashboard | Excel
