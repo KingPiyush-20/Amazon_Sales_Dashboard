@@ -1,6 +1,12 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=1800&pause=700&color=FF9900&center=true&vCenter=true&width=1100&height=100&lines=%F0%9F%9B%92+AMAZON+SALES+ANALYSIS;AMAZON+%7C+SALES+INTELLIGENCE;INTERACTIVE+EXCEL+DASHBOARD" alt="Amazon Sales Dashboard Animation" />
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=19&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=1000&height=55&lines=Data+Driven+%7C+Insight+Focused+%7C+Interactive;Transforming+Raw+Sales+Data+Into+Insights;Explore+Revenue+%7C+Profit+%7C+Business+Trends" alt="Amazon Dashboard Tagline" />
 
 </div>
