@@ -1,4 +1,8 @@
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=850&lines=🛒+Amazon+Sales+Analysis;📊+Interactive+Excel+Dashboard;📈+Turning+Sales+Data+Into+Insights" alt="Animated Project Title" />
+</h1>
+
 # 🛒 Amazon Sales Analysis & Interactive Dashboard | Excel
 
 An advanced Microsoft Excel project focused on analysing Amazon sales performance through interactive dashboards, business intelligence, statistical analysis, and data visualisation.
